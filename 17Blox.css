@@ -1,0 +1,290 @@
+.blox {
+  	width: 100%;
+  	position: relative;
+  	background-color: #004030;
+  	height: 720px;
+  	text-align: left;
+  	font-size: 44px;
+  	color: #fff;
+  	font-family: BobloxClassic;
+}
+.blox-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 1280px;
+  	height: 720px;
+}
+.blox-item {
+  	position: absolute;
+  	top: 103px;
+  	left: 237px;
+  	background-color: #4a9782;
+  	width: 806px;
+  	height: 617px;
+}
+.frame-parent {
+  	position: absolute;
+  	top: 103px;
+  	left: 237px;
+  	background-color: #fff9e5;
+  	width: 806px;
+  	height: 239px;
+  	overflow: hidden;
+  	color: #fffcd5;
+}
+.blox-parent {
+  	position: absolute;
+  	top: 617px;
+  	left: -237px;
+  	background-color: #001c15;
+  	width: 1280px;
+  	height: 84px;
+  	overflow: hidden;
+}
+.blox2 {
+  	position: absolute;
+  	top: 3px;
+  	left: 18px;
+  	letter-spacing: -0.05em;
+  	-webkit-text-stroke: 2px #4a9782;
+  	paint-order: stroke fill;
+}
+.we-are-not-container {
+  	position: absolute;
+  	top: 27px;
+  	left: 208px;
+  	font-size: 12px;
+  	letter-spacing: -0.05em;
+  	font-family: 'TT Interphases Pro Trl';
+  	color: #fff;
+}
+.we-are-not {
+  	margin: 0;
+}
+.blox-2025 {
+  	margin: 0;
+  	white-space: pre-wrap;
+}
+.city-silhouette-png-clip-art-1-icon {
+  	position: absolute;
+  	top: -36px;
+  	left: 344px;
+  	width: 513px;
+  	height: 287px;
+  	object-fit: cover;
+  	opacity: 0.2;
+}
+.noob-1-icon {
+  	position: absolute;
+  	top: 32px;
+  	left: 473px;
+  	width: 310px;
+  	height: 310px;
+  	object-fit: cover;
+}
+.relive-2017 {
+  	position: absolute;
+  	top: 42px;
+  	left: 30px;
+  	font-size: 64px;
+  	letter-spacing: -0.05em;
+  	font-family: 'Product Sans Medium';
+  	color: #000;
+}
+.frame-group {
+  	position: absolute;
+  	top: 216px;
+  	left: 17px;
+  	background-color: rgba(0, 0, 0, 0.61);
+  	width: 34.6px;
+  	height: 11.8px;
+  	overflow: hidden;
+}
+.frame-child {
+  	position: absolute;
+  	top: 2.77px;
+  	left: 2.08px;
+  	background-color: #fff;
+  	width: 6.9px;
+  	height: 6.9px;
+  	overflow: hidden;
+}
+.frame-item {
+  	position: absolute;
+  	top: 3.46px;
+  	left: 11.76px;
+  	background-color: rgba(255, 255, 255, 0.25);
+  	width: 5.5px;
+  	height: 5.5px;
+  	overflow: hidden;
+}
+.frame-inner {
+  	position: absolute;
+  	top: 4.15px;
+  	left: 20.07px;
+  	background-color: rgba(255, 255, 255, 0.25);
+  	width: 4.2px;
+  	height: 4.2px;
+  	overflow: hidden;
+}
+.frame-div {
+  	position: absolute;
+  	top: 4.84px;
+  	left: 27.68px;
+  	background-color: rgba(255, 255, 255, 0.25);
+  	width: 2.8px;
+  	height: 2.8px;
+  	overflow: hidden;
+}
+.how-do-i-sign-up-you-can-sign-wrapper {
+  	position: absolute;
+  	top: 358px;
+  	left: 252px;
+  	background-color: rgba(3, 61, 47, 0.1);
+  	width: 775px;
+  	height: 108px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 10px;
+  	box-sizing: border-box;
+  	font-size: 19.2px;
+  	font-family: 'Product Sans Light';
+}
+.how-do-i-container {
+  	position: relative;
+  	letter-spacing: -0.05em;
+}
+.how-do-i {
+  	margin: 0;
+  	font-size: 32px;
+  	font-family: 'Product Sans Medium';
+}
+.create-application-wrapper {
+  	position: absolute;
+  	top: 482px;
+  	left: 252px;
+  	border-radius: 3.84px;
+  	background-color: #265347;
+  	width: 132px;
+  	height: 40px;
+  	overflow: hidden;
+  	font-size: 13.26px;
+  	font-family: 'Product Sans Medium';
+}
+.create-application {
+  	position: absolute;
+  	top: 11px;
+  	left: 16px;
+  	letter-spacing: -0.05em;
+}
+.blox-group {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #002b20;
+  	width: 1280px;
+  	height: 77px;
+  	overflow: hidden;
+  	font-size: 22.4px;
+  	font-family: 'Product Sans Light';
+}
+.blox3 {
+  	position: absolute;
+  	top: 0px;
+  	left: 20px;
+  	font-size: 44px;
+  	letter-spacing: -0.05em;
+  	font-family: BobloxClassic;
+  	color: #fffcd5;
+  	-webkit-text-stroke: 2px #4a9782;
+  	paint-order: stroke fill;
+}
+.home {
+  	position: absolute;
+  	top: 25px;
+  	left: 270px;
+  	letter-spacing: -0.05em;
+}
+.applications {
+  	position: absolute;
+  	top: 25px;
+  	left: 359px;
+  	letter-spacing: -0.05em;
+}
+.login {
+  	position: absolute;
+  	top: 25px;
+  	left: 501px;
+  	letter-spacing: -0.05em;
+}
+.info {
+  	position: absolute;
+  	top: 25px;
+  	left: 584px;
+  	letter-spacing: -0.05em;
+}
+.discord {
+  	position: absolute;
+  	top: 25px;
+  	left: 651px;
+  	letter-spacing: -0.05em;
+}
+.line-div {
+  	position: absolute;
+  	top: 21.5px;
+  	left: 341.5px;
+  	border-right: 1px solid rgba(255, 255, 255, 0.21);
+  	box-sizing: border-box;
+  	width: 1px;
+  	height: 35px;
+}
+.blox-frame-child {
+  	position: absolute;
+  	top: 21.5px;
+  	left: 485.5px;
+  	border-right: 1px solid rgba(255, 255, 255, 0.21);
+  	box-sizing: border-box;
+  	width: 1px;
+  	height: 35px;
+}
+.frame-child2 {
+  	position: absolute;
+  	top: 21.5px;
+  	left: 567.5px;
+  	border-right: 1px solid rgba(255, 255, 255, 0.21);
+  	box-sizing: border-box;
+  	width: 1px;
+  	height: 35px;
+}
+.frame-child3 {
+  	position: absolute;
+  	top: 21.5px;
+  	left: 634.5px;
+  	border-right: 1px solid rgba(255, 255, 255, 0.21);
+  	box-sizing: border-box;
+  	width: 1px;
+  	height: 35px;
+}
+.blox-wrapper {
+  	position: absolute;
+  	top: 657px;
+  	left: 0px;
+  	background-color: #001c15;
+  	width: 1280px;
+  	height: 63px;
+  	overflow: hidden;
+  	font-size: 19.18px;
+  	color: #fffcd5;
+}
+.blox4 {
+  	position: absolute;
+  	top: 15px;
+  	left: 18px;
+  	letter-spacing: -0.05em;
+  	-webkit-text-stroke: 0.9px #4a9782;
+  	paint-order: stroke fill;
+}
+
